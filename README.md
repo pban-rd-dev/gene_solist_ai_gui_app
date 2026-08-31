@@ -2,7 +2,7 @@
 
 株式会社ピーバンドットコムが提供する [Solist-AI™ × gene｜ノーコード組み込みAI開発キット](https://www.p-ban.com/services/gene/solist-ai.html) 用の GUI アプリケーション。
 
-gene (ESP32-S3) と UART で通信し、Solist-AI (ML63Q2537) の ML 処理を操作する。
+gene (ESP32-S3) と通信し、Solist-AI (ML63Q2537) の ML 処理を操作する。
 
 アプリケーションは**バイナリ配布物**として提供します。
 
